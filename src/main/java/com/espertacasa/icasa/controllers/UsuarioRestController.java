@@ -1,4 +1,4 @@
-package com.espertacasa.controllers;
+package com.espertacasa.icasa.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
